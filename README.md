@@ -2,6 +2,10 @@ glider script
 ======
 ### A simple script which can change your content copied by v2,ss software to gost or glider command.
 
+#### contact
+------
+* Telegram channel: @gostscript @gliderscript 
+* mail: sharewithyousome@protonmail.com
 
 #### How to use on telegram
 ------
