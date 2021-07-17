@@ -25,3 +25,7 @@ proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/glider?
 #### How to use on linux tor.
 ------
 It's about the same as windows
+
+#### Disclaimer
+------
+read Disclaimer file
