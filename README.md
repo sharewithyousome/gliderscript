@@ -4,7 +4,7 @@ glider script
 
 #### contact
 ------
-* Telegram channel: @gostscript @gliderscript 
+* Telegram channel: @gogostsc @gliderscript 
 * mail: sharewithyousome@protonmail.com
 
 #### How to use on telegram
